@@ -1,1 +1,8 @@
 rasdial 寬頻連線 {XXXXXAccountXXXXXX@hinet.net} {Password}
+
+開機連線
+Win+R
+shell:startup
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+
+斷網重連
